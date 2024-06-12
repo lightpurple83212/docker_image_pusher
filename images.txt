@@ -1,2 +1,2 @@
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.8.2
-frooodle/s-pdf
+#frooodle/s-pdf:latest
+xiaoyaliu/alist
